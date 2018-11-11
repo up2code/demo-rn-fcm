@@ -34,7 +34,7 @@ $ npm install
 
 When you try to register your app on Firebase project. It will ask you to download configuration file to specific path (depend on what platform you had choosed)
 
-**Android** : +demo-rn-fcm/android/app/google-services.json_
+**Android** : _demo-rn-fcm/android/app/google-services.json_
 
 **iOS** : _demo-rn-fcm/ios/demoFCM/GoogleService-Info.plist_
 
